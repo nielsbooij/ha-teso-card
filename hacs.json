@@ -1,4 +1,6 @@
 {
   "name": "TESO Veerboot Card",
-  "render_readme": true
+  "render_readme": true,
+    "filename": "teso-card.js"
+
 }
